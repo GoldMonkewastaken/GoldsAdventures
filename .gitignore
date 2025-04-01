@@ -5,11 +5,12 @@
 /logs/*
 /crash-reports/*
 *.log
-
+.curseclient
+minecraftinstance.json
 # Ignore world save data and backups
 /saves/*
 /config/*.bak
-
+update_mod_list.bat
 # Ignore temporary and system files
 *.tmp
 *.swp
