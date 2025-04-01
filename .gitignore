@@ -1,0 +1,74 @@
+# Ignore all mod files
+/mods/*.jar
+
+# Ignore logs and crash reports
+/logs/*
+/crash-reports/*
+*.log
+
+# Ignore world save data and backups
+/saves/*
+/config/*.bak
+
+# Ignore temporary and system files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ and Eclipse project files
+/.idea/
+/*.iml
+/.vscode/
+/*.project
+/.classpath
+/.settings/
+
+# Ignore Minecraft launcher files
+/usercache.json
+
+
+
+/coremods
+/crash-reports
+icon.png
+/ldlib
+/local
+/logs
+/modernfix
+/mods
+observable_announce
+options.txt
+/patchouli_books
+patchouli_data.json
+realms_persistence.json
+/resourcepacks
+rhino.local.properties
+/saves
+/schematics
+/screenshots
+/server-resource-packs
+servers.dat
+servers.dat_old
+shaderpacks
+usercache.json
+usernamecache.json
+.vscode
+/local
+.idea
+node_modules/
+package-lock.json
+.eslintrc
+package.json
+node-tail.js
+/icon-exports-x32
+.probe
+ESM
+texturepacks
+ldlib
+ds_private_storage.json
+keys.txt
+/.mixin.out
+/blueprints
+/journeymap
+
