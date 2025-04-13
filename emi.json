@@ -1,6 +1,35 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:ribbits:giant_lilypad"
+    }
+  ],
   "lookup_history": [
+    "item:refurbished_furniture:recycle_bin",
+    "item:alexscaves:caramel",
+    "item:alexscaves:conversion_crucible",
+    "#fluid:minecraft:water",
+    {
+      "type": "fluid",
+      "id": "minecraft:water",
+      "amount": 0
+    },
+    {
+      "type": "item",
+      "id": "alexscaves:chocolate_ice_cream_scoop",
+      "amount": 2
+    },
+    "item:alexscaves:sundrop",
+    {
+      "type": "item",
+      "id": "minecraft:cookie",
+      "amount": 25
+    },
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"create_sa:above_the_clouds\",lvl:1s}]}",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"utilitix:bell_range\",lvl:3s}]}",
+    "item:minecraft:crafting_table",
+    "item:eccentrictome:tome{\"eccentrictome:mods\":{advancedperipherals:{0:{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"advancedperipherals:manual\"}}},alexsmobs:{0:{Count:1b,id:\"alexsmobs:animal_dictionary\"}},apotheosis:{0:{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}}},ars_nouveau:{0:{Count:1b,id:\"ars_nouveau:worn_notebook\"}},lexicon:{0:{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"lexicon:lexicon\"}}},tconstruct:{0:{Count:1b,id:\"tconstruct:materials_and_you\"}}}}",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:reach\",lvl:5s}]}",
     "item:pamhc2crops:tropicalgarden"
   ],
   "craft_history": [],

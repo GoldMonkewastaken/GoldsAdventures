@@ -1487,7 +1487,7 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.stonelings.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["alexscaves:candy_cavity"]
 					"Is Blacklist" = true
 
 	[mobs.toretoise]
@@ -1521,7 +1521,7 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.toretoise.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["alexscaves:candy_cavity"]
 					"Is Blacklist" = true
 
 	[mobs.wraith]

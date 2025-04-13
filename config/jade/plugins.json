@@ -1,12 +1,15 @@
 {
+  "framedblocks": {
+    "framed_item_frame": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,13 +54,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true,
-    "mushroom_colony": true
+  "immersiveengineering": {
+    "multiblock_icon": true
   },
-  "supplementaries": {
-    "hat_stand": true
+  "createsifter": {
+    "sifter_data": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -72,10 +73,90 @@
     "ench": true,
     "spawner": true
   },
-  "waystones": {
-    "waystone": true
+  "lootr": {
+    "info": true
   },
   "balm": {
     "jade": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "camera": {
+    "image_frame": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "info": true,
+    "showcustomname": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

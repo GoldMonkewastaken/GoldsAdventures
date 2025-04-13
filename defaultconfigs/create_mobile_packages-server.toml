@@ -1,0 +1,5 @@
+#.
+#Delay for Drone Port deliveries in Seconds. Default: 3
+#Range: 0 ~ 3600
+dronePortDeliveryDelay = 3
+
