@@ -1,0 +1,41 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "useful_items"
+	group: "6F08DDEC1FB22931"
+	icon: "minecraft:nether_star"
+	id: "4B9C936257B6750D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["&b&lEccentric Tome&r&r is a QOL mod, adding a simple item which you can combine with guide books from different mods inside a &6&lcrafting grid&r&r so they will only take up &eone&r inventory space!"]
+		icon: {
+			Count: 1
+			id: "eccentrictome:tome"
+			tag: {
+				"eccentrictome:mods": { }
+			}
+		}
+		id: "3841AF2DA9D21EFD"
+		rewards: [{
+			id: "6C72C6894BD34E90"
+			item: {
+				Count: 1
+				id: "eccentrictome:tome"
+				tag: {
+					"eccentrictome:mods": { }
+				}
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "4F558C876DAD9B7F"
+			title: "Eccentric Tome"
+			type: "checkmark"
+		}]
+		title: "&bEccentric Tome"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Useful Items"
+}
