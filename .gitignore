@@ -49,6 +49,8 @@ rhino.local.properties
 /schematics
 /screenshots
 /server-resource-packs
+/essentials
+/downloads
 servers.dat
 servers.dat_old
 shaderpacks
